@@ -1,0 +1,21 @@
+{
+  "name": "v66_track_bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram bot for track delevery status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram-bot",
+    "develevry",
+    "track"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^133.0.0",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
